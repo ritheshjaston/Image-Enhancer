@@ -4,21 +4,21 @@
 <p>This project presents the three important image processing techniques:
 Contrast Enhancement, Brightness Enhancement and Saturation Enhancement. The primary 
 objective is to analyze the effectiveness and applications of these methods in image 
-enhancement and manipulation. 
+enhancement and manipulation. <br/>
 Contrast enhancement is a vital image processing technique aimed at improving 
 visual quality by emphasizing the differences between pixel intensities in an image. This 
 brief overview presents various methods employed for contrast enhancement, such as 
 histogram equalization, adaptive contrast stretching, and gamma correction. The 
 significance of contrast enhancement lies in its ability to enhance image details, mitigate 
 noise, and optimize image analysis in diverse applications, including medical imaging, 
-remote sensing, and computer vision.
+remote sensing, and computer vision.<br/>
 Brightness enhancement is a fundamental image processing technique designed to 
 augment the overall luminance of an image, leading to improved visibility and visual 
 perception. This concise introduction explores different methodologies for brightness 
 enhancement, including histogram modification, logarithmic transformation, and adaptive 
 techniques. The significance of brightness enhancement lies in its capability to enhance 
 underexposed regions, reveal hidden details, and optimize image analysis across numerous 
-domains, such as surveillance, photography, and satellite imagery. 
+domains, such as surveillance, photography, and satellite imagery. <br/>
 Saturation enhancement is a pivotal image processing technique focused on 
 amplifying the intensity of colors within an image, thereby enriching its visual appearance 
 and increasing its perceived vibrancy. This succinct introduction delves into diverse methods 
